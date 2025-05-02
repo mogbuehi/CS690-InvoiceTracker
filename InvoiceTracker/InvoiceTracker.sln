@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTracker", "InvoiceTracker.csproj", "{36250DDB-3356-45B7-B42C-DCBE4513108D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceLogic", "InvoiceLogic\InvoiceLogic.csproj", "{BFF22C4A-6ACC-402E-8B7F-1AC20552361E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36250DDB-3356-45B7-B42C-DCBE4513108D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36250DDB-3356-45B7-B42C-DCBE4513108D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36250DDB-3356-45B7-B42C-DCBE4513108D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36250DDB-3356-45B7-B42C-DCBE4513108D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF22C4A-6ACC-402E-8B7F-1AC20552361E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF22C4A-6ACC-402E-8B7F-1AC20552361E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF22C4A-6ACC-402E-8B7F-1AC20552361E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF22C4A-6ACC-402E-8B7F-1AC20552361E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
